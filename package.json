@@ -1,6 +1,6 @@
 {
   "name": "cmacc-example-geo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Sample addresses",
   "main": "index.js",
   "repository": "https://github.com/cmacclang/cmacc-example-geo.git",
