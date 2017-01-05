@@ -1,9 +1,9 @@
 {
   "name": "cmacc-example-geo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Sample addresses",
   "main": "index.js",
-  "repository": "https://github.com/Cmacclang/cmacc-example-geo.git",
+  "repository": "https://github.com/cmacclang/cmacc-example-geo.git",
   "author": "Marc Dangeard <marc@dangeard.com>",
   "license": "MIT",
   "flat": true
