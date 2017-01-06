@@ -7,7 +7,6 @@ This library includes sample addresses. This is used in demo documents.
 A reference to an address is a reference to a Geo.cmacc file located in a given Country > State > County > City > Street > Number directory.
 
 The way to display an address is by using the _adr_12.cmacc file (can be found in country/region specific libraries, for example cmacc-lib-us or cmacc-lib-fr)
-You can also find sample addresses in the cmacc-example-geo library.
 
 For example: 55 Broadway St, Cmabridge, MA 02142 is a _geo.cmacc file created in USA > MA > Middlesex > Broadway St > 55 directory.
 
