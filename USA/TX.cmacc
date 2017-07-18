@@ -1,5 +1,5 @@
-$ name = "Texas";
+$ name = "Texas"
 
-$ statecode = "TX";
+$ statecode = "TX"
 
-$ country = [../USA.cmacc];
+$ country = [../USA.cmacc]
