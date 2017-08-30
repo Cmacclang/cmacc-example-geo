@@ -2,6 +2,5 @@ $ streetnum = "100"
 
 $ zip = "02144"
 
-$ street = [../../MadisonSt.cmacc] => {
-}
+$ street = [../../MadisonSt.cmacc]
 

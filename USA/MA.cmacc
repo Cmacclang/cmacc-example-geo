@@ -1,9 +1,9 @@
-$ name = "Massachusetts";
+$ name = "Massachusetts"
 
-$ statecode = "MA";
+$ statecode = "MA"
 
-$ flower = "Mayflower";
+$ flower = "Mayflower"
 
-$ constitution = "Constitution of the Commonwealth of Massachusetts";
+$ constitution = "Constitution of the Commonwealth of Massachusetts"
 
-$ country = [../USA.cmacc];
+$ country = [../USA.cmacc]

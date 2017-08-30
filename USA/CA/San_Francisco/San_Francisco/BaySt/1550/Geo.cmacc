@@ -1,6 +1,6 @@
-$ streetnum = "1150";
+$ streetnum = "1150"
 
-$ zip = "94123";
+$ zip = "94123"
 
-$ street = [../../BaySt.cmacc];
+$ street = [../../BaySt.cmacc]
 

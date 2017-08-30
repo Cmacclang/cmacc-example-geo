@@ -1,4 +1,4 @@
-$ name = "rue du grand chemin";
+$ name = "rue du grand chemin"
 
-$ city = [../Paris.cmacc];
+$ city = [../Paris.cmacc]
 

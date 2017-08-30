@@ -1,7 +1,7 @@
-$ name = "California";
+$ name = "California"
 
-$ statecode = "CA";
+$ statecode = "CA"
 
-$ flower = "Golden Poppy";
+$ flower = "Golden Poppy"
 
-$ country = [../USA.cmacc];
+$ country = [../USA.cmacc]

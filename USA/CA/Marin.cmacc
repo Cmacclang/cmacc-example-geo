@@ -1,3 +1,3 @@
-$ name = "Marin";
+$ name = "Marin"
 
-$ state = [../CA.cmacc];
+$ state = [../CA.cmacc]

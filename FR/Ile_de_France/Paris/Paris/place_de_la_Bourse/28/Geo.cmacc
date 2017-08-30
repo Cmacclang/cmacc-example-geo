@@ -1,5 +1,5 @@
-$ streetnum = "28";
+$ streetnum = "28"
 
-$ zip = "75002";
+$ zip = "75002"
 
-$ street = [../../place_de_la_Bourse.cmacc];
+$ street = [../../place_de_la_Bourse.cmacc]

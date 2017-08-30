@@ -1,4 +1,4 @@
-$ name = "San Francisco";
+$ name = "San Francisco"
 
-$ county = [../San_Francisco.cmacc];
+$ county = [../San_Francisco.cmacc]
 

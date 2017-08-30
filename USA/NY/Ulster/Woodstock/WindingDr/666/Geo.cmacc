@@ -1,7 +1,7 @@
-$ streetnum = "666";
+$ streetnum = "666"
 
-$ zip = "ZZZZZ";
+$ zip = "ZZZZZ"
 
-$ street = [../../WindingDr.cmacc];
+$ street = [../../WindingDr.cmacc]
 
 

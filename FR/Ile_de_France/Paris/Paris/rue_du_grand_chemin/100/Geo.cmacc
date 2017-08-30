@@ -1,5 +1,5 @@
-$ streetnum = "100";
+$ streetnum = "100"
 
-$ zip = "75022";
+$ zip = "75022"
 
-$ street = [../../rue_du_grand_chemin.cmacc];
+$ street = [../../rue_du_grand_chemin.cmacc]

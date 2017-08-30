@@ -1,7 +1,7 @@
-$ name = "New York";
+$ name = "New York"
 
-$ statecode = "NY";
+$ statecode = "NY"
 
-$ flower = "Rose";
+$ flower = "Rose"
 
-$ country = [../USA.cmacc];
+$ country = [../USA.cmacc]
