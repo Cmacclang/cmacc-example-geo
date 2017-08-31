@@ -1,2 +1,5 @@
 yarn.lock
 *.html
+*.log
+*.pdf
+/node_modules
