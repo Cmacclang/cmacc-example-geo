@@ -1,6 +1,8 @@
 # cmacc-example-geo
 
-This library includes sample addresses. This is used in demo documents.
+[![NPM](https://nodei.co/npm/cmacc-example-geo.png?compact=true)](https://nodei.co/npm/cmacc-example-geo/)
+
+This library includes sample addresses. This is used in demo  or test documents.
 
 # About addresses:
 
